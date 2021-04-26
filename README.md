@@ -21,7 +21,7 @@ It seems like there is a correlation between the number of successful and failed
 
 On Dec, there has been as many successful as failed launches.
 
-There are other factors that could have contributed to the success or failure of the launches that are not taken into account, as the country of launch 'audience preference etc'.
+There are other factors that could have contributed to the success or failure of the launches that are not taken into account, as the country of launch (audience preference etc).
 
 We are looking into the 2 factors launch date and goals separately. It would give us a better insight if both elements are combined in one graph.
 
