@@ -3,13 +3,15 @@
 ## Overview of Project
 
 ### Purpose
-
 The purpose of this analysis is to visualize campaign outcomes based on their launch dates and their funding goals so that we can provide Louise with helpful insights about how other plays fared in relation to their launch dates and their funding goals.
 
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Date 
+
+
+![](Theater_Outcomes_vs_Launch.png)
 
 The number of plays canceled was consistent, independently of launch date, which suggests that launch date is not a determining/contributor factor for cancellation.
 
@@ -19,12 +21,14 @@ It seems like there is a correlation between the number of successful and failed
 
 On Dec, there has been as many successful as failed launches.
 
-There are other factors that could have contributed to the success or failure of the launches that are not taken into account, as the country of launch (audience preferences…)
+There are other factors that could have contributed to the success or failure of the launches that are not taken into account, as the country of launch (audience preference etc).
 
 We are looking into the 2 factors launch date and goals separately. It would give us a better insight if both elements are combined in one graph.
 
 
 ### Analysis of Outcomes Based on Goals
+
+![](Outcomes_vs_Goals.png)
 
 The highest success rate was among the projects with a goal lower than 5000, followed by projects with a goal between 35000 and 45000
 
